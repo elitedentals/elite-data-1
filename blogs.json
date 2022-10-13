@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=974&q=80",
+    "image": "https://res.cloudinary.com/dcqcto7jt/image/upload/v1665637995/elitedental/blog-details-01_coscu9.jpg",
     "categories": ["technology", "tech", "computer"],
     "title": "This is the Post Title",
     "author": "David Goal",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+    "image": "https://res.cloudinary.com/dcqcto7jt/image/upload/v1665588187/elitedental/full-teeth_g4sd1h.png",
     "categories": ["technology", "tech", "computer"],
     "title": "This is the Post Title",
     "author": "David Goal",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "image": "https://res.cloudinary.com/dcqcto7jt/image/upload/v1665588180/elitedental/white-teeth_m8lfmg.jpg",
     "categories": ["technology", "tech", "computer"],
     "title": "This is the Post Title",
     "author": "David Goal",
